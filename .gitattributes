@@ -1,0 +1,3 @@
+'/shuriken-native-5.0.1' filter=lfs diff=lfs merge=lfs -text
+'shuriken-native-5.0.1/*' filter=lfs diff=lfs merge=lfs -text
+'D:/laragon/shuriken5/shuriken-native-5.0.1/*' filter=lfs diff=lfs merge=lfs -text
